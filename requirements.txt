@@ -1,9 +1,5 @@
 fastapi
-unicorn
-jinja2
 uvicorn
 pandas
-uuid
 python-multipart
-passlib
-
+jinja2
