@@ -1,3 +1,0 @@
-uvicorn main:app --reload
-env/Scripts/activate
-Set-ExecutionPolicy -Scope CurrentUser Unrestricted
