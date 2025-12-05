@@ -1,4 +1,4 @@
 Set-ExecutionPolicy -Scope CurrentUser Unrestricted
 venv/Scripts/activate
-uvicorn main:app --reload
 pip install fastapi uvi
+uvicorn main:app --reload
